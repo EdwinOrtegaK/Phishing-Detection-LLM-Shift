@@ -1,0 +1,2 @@
+svm__estimator__C,tfidf__max_features,tfidf__ngram_range,best_cv_f1
+1,5000,"(1, 1)",0.9937483105115646
